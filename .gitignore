@@ -1,0 +1,5 @@
+ta-lib/CMakeLists.txt.user
+ta-lib/c/include/ta_config.h
+
+build-ta-lib-*/
+
